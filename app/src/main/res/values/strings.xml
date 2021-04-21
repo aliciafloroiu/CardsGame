@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="facebook_app_id">1681552988702608</string>
+    <string name="fb_login_protocol_scheme">fb1681552988702608</string>
+
+
+    <string-array name="Cards">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+    </string-array>
+
+    <string-array name="Description">
+        <item>Item.</item>
+        <item>Item.</item>
+        <item>Item.</item>
+        <item>Item.</item>
+        <item>Item.</item>
+        <item>Item.</item>
+        <item>Item.</item>
+        <item>Item.</item>
+    </string-array>
+
+
+</resources>

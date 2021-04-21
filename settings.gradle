@@ -1,0 +1,3 @@
+include ':CardsGameMapAPI'
+include ':app', ':facebook'
+rootProject.name = "My Application"
